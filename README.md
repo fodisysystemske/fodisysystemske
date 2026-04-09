@@ -12,7 +12,8 @@
 ## 🌟 About Fodisy Systems
 
 Fodisy Systems is a *full-stack enterprise engineering powerhouse, focused on building **resilient, scalable systems* that survive real-world complexity.  
-We specialize in:
+
+We specialize in:  
 
 - Enterprise integrations & distributed systems  
 - Cloud infrastructure & automation frameworks  
@@ -27,19 +28,18 @@ We specialize in:
 ## 🛠 Core Technologies
 
 <p align="center">
-  <!-- Skill badges -->
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
@@ -47,12 +47,16 @@ We specialize in:
 ## 📊 Technology Usage Charts
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Node.js','React','Python','AWS','Docker','Kubernetes'],datasets:[{data:[30,20,15,10,15,10],backgroundColor:['#339933','#61DAFB','#3776AB','#232F3E','#2496ED','#326CE5']}]},options:{plugins:{legend:{position:'bottom',labels:{color:'#000000',font:{size:14}}}}}}" width="400" alt="Tech Pie Chart">
+  <!-- Pie Chart -->
+  <img src="https://quickchart.io/chart/render/sf-2c42d1a1-6c72-4c33-8a11-2e779e1fa77c" width="400" alt="Tech Pie Chart">
 </p>
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Automation','Cloud','Security','Data','API'],datasets:[{label:'Expertise Level (%)',data:[95,90,85,80,90],backgroundColor:['#FF5733','#33FF57','#3357FF','#F333FF','#33FFF5']}]},options:{scales:{y:{beginAtZero:true,ticks:{color:'#000000'}}},plugins:{legend:{labels:{color:'#000000',font:{size:14}}}}}}" width="600" alt="Skill Bar Chart">
+  <!-- Bar Chart -->
+  <img src="https://quickchart.io/chart/render/sf-c9a43892-2e77-4e08-8c7c-2cf9f8db7baf" width="600" alt="Skill Bar Chart">
 </p>
+
+> *Note:* These QuickChart links are static rendered charts that always display correctly in GitHub.
 
 ---
 
@@ -73,7 +77,7 @@ I am the architect driving *Fodisy Systems*, focusing on solving complex system 
 
 > “Distilling complexity into structured, maintainable solutions — ensuring systems survive scale and real-world pressures.”
 
-Over the years, I have cultivated *multidisciplinary fluency* across:
+Multidisciplinary fluency across:
 
 - Distributed systems & microservices  
 - Cloud orchestration & infrastructure  
@@ -87,8 +91,8 @@ Over the years, I have cultivated *multidisciplinary fluency* across:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fodisysystemske&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodisysystemske&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fodisysystemske&show_icons=true&theme=radical&hide_rank=true" alt="Fodisy Systems GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodisysystemske&layout=compact&theme=radical&hide=Jupyter%20Notebook,HTML,CSS" alt="Fodisy Systems Top Languages" />
 </p>
 
 ---
