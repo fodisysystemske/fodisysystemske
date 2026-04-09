@@ -44,19 +44,33 @@ We specialize in:
 
 ---
 
-## 📊 Technology Usage Charts
+## 📊 Technology Usage (Static Visual Charts)
 
 <p align="center">
-  <!-- Pie Chart -->
-  <img src="[https://quickchart.io/sandbox/#%7B%22chart%22%3A%22%7B%5Cn%20%20type%3A%20'bar'%2C%5Cn%20%20data%3A%20%7B%5Cn%20%20%20%20labels%3A%20%5B'January'%2C%20'February'%2C%20'March'%2C%20'April'%2C%20'May'%2C%20'June'%2C%20'July'%5D%2C%5Cn%20%20%20%20datasets%3A%20%5B%5Cn%20%20%20%20%20%20%7B%5Cn%20%20%20%20%20%20%20%20type%3A%20'line'%2C%5Cn%20%20%20%20%20%20%20%20label%3A%20'Dataset%201'%2C%5Cn%20%20%20%20%20%20%20%20borderColor%3A%20'rgb(54%2C%20162%2C%20235)'%2C%5Cn%20%20%20%20%20%20%20%20borderWidth%3A%202%2C%5Cn%20%20%20%20%20%20%20%20fill%3A%20false%2C%5Cn%20%20%20%20%20%20%20%20data%3A%20%5B-33%2C%2026%2C%2029%2C%2089%2C%20-41%2C%2070%2C%20-84%5D%2C%5Cn%20%20%20%20%20%20%7D%2C%5Cn%20%20%20%20%20%20%7B%5Cn%20%20%20%20%20%20%20%20label%3A%20'Dataset%202'%2C%5Cn%20%20%20%20%20%20%20%20backgroundColor%3A%20'rgb(255%2C%2099%2C%20132)'%2C%5Cn%20%20%20%20%20%20%20%20data%3A%20%5B-42%2C%2073%2C%20-69%2C%20-94%2C%20-81%2C%2018%2C%2087%5D%2C%5Cn%20%20%20%20%20%20%20%20borderColor%3A%20'white'%2C%5Cn%20%20%20%20%20%20%20%20borderWidth%3A%202%2C%5Cn%20%20%20%20%20%20%7D%2C%5Cn%20%20%20%20%20%20%7B%5Cn%20%20%20%20%20%20%20%20label%3A%20'Dataset%203'%2C%5Cn%20%20%20%20%20%20%20%20backgroundColor%3A%20'rgb(75%2C%20192%2C%20192)'%2C%5Cn%20%20%20%20%20%20%20%20data%3A%20%5B93%2C%2060%2C%20-15%2C%2077%2C%20-59%2C%2082%2C%20-44%5D%2C%5Cn%20%20%20%20%20%20%7D%2C%5Cn%20%20%20%20%5D%2C%5Cn%20%20%7D%2C%5Cn%20%20options%3A%20%7B%5Cn%20%20%20%20title%3A%20%7B%5Cn%20%20%20%20%20%20display%3A%20true%2C%5Cn%20%20%20%20%20%20text%3A%20'My%20chart'%2C%5Cn%20%20%20%20%7D%2C%5Cn%20%20%7D%2C%5Cn%7D%22%2C%22width%22%3A500%2C%22height%22%3A300%2C%22version%22%3A%222.9.4%22%2C%22backgroundColor%22%3A%22%23fff%22%7D)" width="400" alt="Tech Pie Chart">
+  <strong>Backend:</strong><br>
+  <span style="background-color:#339933;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">Node.js</span>
+  <span style="background-color:#007ACC;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">TypeScript</span>
+  <span style="background-color:#3776AB;color:white;padding:5px 10px;border-radius:5px;">Python</span>
 </p>
 
 <p align="center">
-  <!-- Bar Chart -->
-  <img src="https://quickchart.io/chart/render/sf-c9a43892-2e77-4e08-8c7c-2cf9f8db7baf" width="600" alt="Skill Bar Chart">
+  <strong>Frontend:</strong><br>
+  <span style="background-color:#61DAFB;color:black;padding:5px 10px;border-radius:5px;margin-right:3px;">React</span>
+  <span style="background-color:#000000;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">Next.js</span>
 </p>
 
-> *Note:* These QuickChart links are static rendered charts that always display correctly in GitHub.
+<p align="center">
+  <strong>Cloud & DevOps:</strong><br>
+  <span style="background-color:#232F3E;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">AWS</span>
+  <span style="background-color:#2496ED;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">Docker</span>
+  <span style="background-color:#326CE5;color:white;padding:5px 10px;border-radius:5px;">Kubernetes</span>
+</p>
+
+<p align="center">
+  <strong>Other Tools:</strong><br>
+  <span style="background-color:#7B42BC;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">Terraform</span>
+  <span style="background-color:#E10098;color:white;padding:5px 10px;border-radius:5px;">GraphQL</span>
+</p>
 
 ---
 
@@ -88,11 +102,20 @@ Multidisciplinary fluency across:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (Static Badges)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fodisysystemske&show_icons=true&theme=radical&hide_rank=true" alt="Fodisy Systems GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodisysystemske&layout=compact&theme=radical&hide=Jupyter%20Notebook,HTML,CSS" alt="Fodisy Systems Top Languages" />
+  <span style="background-color:#FF5733;color:white;padding:10px 15px;border-radius:5px;margin-right:5px;">⭐ Total Stars: 123</span>
+  <span style="background-color:#33FF57;color:white;padding:10px 15px;border-radius:5px;margin-right:5px;">🍴 Forks: 45</span>
+  <span style="background-color:#3357FF;color:white;padding:10px 15px;border-radius:5px;margin-right:5px;">📦 Repos: 12</span>
+  <span style="background-color:#F333FF;color:white;padding:10px 15px;border-radius:5px;">👥 Contributors: 8</span>
+</p>
+
+<p align="center">
+  <span style="background-color:#FFAA33;color:white;padding:10px 15px;border-radius:5px;margin-right:3px;">JavaScript</span>
+  <span style="background-color:#3399FF;color:white;padding:10px 15px;border-radius:5px;margin-right:3px;">Python</span>
+  <span style="background-color:#FF33AA;color:white;padding:10px 15px;border-radius:5px;margin-right:3px;">TypeScript</span>
+  <span style="background-color:#33FFAA;color:white;padding:10px 15px;border-radius:5px;">Go</span>
 </p>
 
 ---
