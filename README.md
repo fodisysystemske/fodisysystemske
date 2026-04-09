@@ -47,29 +47,29 @@ We specialize in:
 ## 📊 Technology Usage (Static Visual Charts)
 
 <p align="center">
-  <strong>Backend:</strong><br>
-  <span style="background-color:#339933;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">Node.js</span>
-  <span style="background-color:#007ACC;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">TypeScript</span>
-  <span style="background-color:#3776AB;color:white;padding:5px 10px;border-radius:5px;">Python</span>
+  <strong>Backend</strong><br>
+  <span style="background-color:#339933;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Node.js 40%</span>
+  <span style="background-color:#007ACC;color:white;padding:8px 15px;border-radius:12px;margin:3px;">TypeScript 30%</span>
+  <span style="background-color:#3776AB;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Python 30%</span>
 </p>
 
 <p align="center">
-  <strong>Frontend:</strong><br>
-  <span style="background-color:#61DAFB;color:black;padding:5px 10px;border-radius:5px;margin-right:3px;">React</span>
-  <span style="background-color:#000000;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">Next.js</span>
+  <strong>Frontend</strong><br>
+  <span style="background-color:#61DAFB;color:black;padding:8px 15px;border-radius:12px;margin:3px;">React 50%</span>
+  <span style="background-color:#000000;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Next.js 50%</span>
 </p>
 
 <p align="center">
-  <strong>Cloud & DevOps:</strong><br>
-  <span style="background-color:#232F3E;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">AWS</span>
-  <span style="background-color:#2496ED;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">Docker</span>
-  <span style="background-color:#326CE5;color:white;padding:5px 10px;border-radius:5px;">Kubernetes</span>
+  <strong>Cloud & DevOps</strong><br>
+  <span style="background-color:#232F3E;color:white;padding:8px 15px;border-radius:12px;margin:3px;">AWS 35%</span>
+  <span style="background-color:#2496ED;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Docker 35%</span>
+  <span style="background-color:#326CE5;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Kubernetes 30%</span>
 </p>
 
 <p align="center">
-  <strong>Other Tools:</strong><br>
-  <span style="background-color:#7B42BC;color:white;padding:5px 10px;border-radius:5px;margin-right:3px;">Terraform</span>
-  <span style="background-color:#E10098;color:white;padding:5px 10px;border-radius:5px;">GraphQL</span>
+  <strong>Other Tools</strong><br>
+  <span style="background-color:#7B42BC;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Terraform 50%</span>
+  <span style="background-color:#E10098;color:white;padding:8px 15px;border-radius:12px;margin:3px;">GraphQL 50%</span>
 </p>
 
 ---
@@ -105,17 +105,17 @@ Multidisciplinary fluency across:
 ## 📈 GitHub Stats (Static Badges)
 
 <p align="center">
-  <span style="background-color:#FF5733;color:white;padding:10px 15px;border-radius:5px;margin-right:5px;">⭐ Total Stars: 123</span>
-  <span style="background-color:#33FF57;color:white;padding:10px 15px;border-radius:5px;margin-right:5px;">🍴 Forks: 45</span>
-  <span style="background-color:#3357FF;color:white;padding:10px 15px;border-radius:5px;margin-right:5px;">📦 Repos: 12</span>
-  <span style="background-color:#F333FF;color:white;padding:10px 15px;border-radius:5px;">👥 Contributors: 8</span>
+  <span style="background-color:#FF5733;color:white;padding:10px 15px;border-radius:12px;margin:3px;">⭐ Total Stars: 123</span>
+  <span style="background-color:#33FF57;color:white;padding:10px 15px;border-radius:12px;margin:3px;">🍴 Forks: 45</span>
+  <span style="background-color:#3357FF;color:white;padding:10px 15px;border-radius:12px;margin:3px;">📦 Repos: 12</span>
+  <span style="background-color:#F333FF;color:white;padding:10px 15px;border-radius:12px;margin:3px;">👥 Contributors: 8</span>
 </p>
 
 <p align="center">
-  <span style="background-color:#FFAA33;color:white;padding:10px 15px;border-radius:5px;margin-right:3px;">JavaScript</span>
-  <span style="background-color:#3399FF;color:white;padding:10px 15px;border-radius:5px;margin-right:3px;">Python</span>
-  <span style="background-color:#FF33AA;color:white;padding:10px 15px;border-radius:5px;margin-right:3px;">TypeScript</span>
-  <span style="background-color:#33FFAA;color:white;padding:10px 15px;border-radius:5px;">Go</span>
+  <span style="background-color:#FFAA33;color:white;padding:10px 15px;border-radius:12px;margin:3px;">JavaScript</span>
+  <span style="background-color:#3399FF;color:white;padding:10px 15px;border-radius:12px;margin:3px;">Python</span>
+  <span style="background-color:#FF33AA;color:white;padding:10px 15px;border-radius:12px;margin:3px;">TypeScript</span>
+  <span style="background-color:#33FFAA;color:white;padding:10px 15px;border-radius:12px;margin:3px;">Go</span>
 </p>
 
 ---
