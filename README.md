@@ -2,9 +2,10 @@
 <!-- FODISY SYSTEMS README -->
 <!-- ===================== -->
 
-<h1 align="center">🚀 Fodisy Systems</h1>
+# 🚀 Fodisy Systems
+
 <p align="center">
-  <em>End-to-end enterprise systems architecture, cloud infrastructure, automation, and scalable solutions.</em>
+<em>End-to-end enterprise systems architecture, cloud infrastructure, automation, and scalable solutions.</em>
 </p>
 
 ---
@@ -28,48 +29,42 @@ We specialize in:
 ## 🛠 Core Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 </p>
 
 ---
 
-## 📊 Technology Usage (Static Visual Charts)
+## 📊 Technology Usage (Static Charts)
 
 <p align="center">
-  <strong>Backend</strong><br>
-  <span style="background-color:#339933;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Node.js 40%</span>
-  <span style="background-color:#007ACC;color:white;padding:8px 15px;border-radius:12px;margin:3px;">TypeScript 30%</span>
-  <span style="background-color:#3776AB;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Python 30%</span>
+### Backend
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Node.js','TypeScript','Python'],datasets:[{data:[40,30,30],backgroundColor:['#339933','#007ACC','#3776AB']}]}}&width=500&height=300" alt="Backend Usage Chart">
 </p>
 
 <p align="center">
-  <strong>Frontend</strong><br>
-  <span style="background-color:#61DAFB;color:black;padding:8px 15px;border-radius:12px;margin:3px;">React 50%</span>
-  <span style="background-color:#000000;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Next.js 50%</span>
+### Frontend
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['React','Next.js'],datasets:[{data:[50,50],backgroundColor:['#61DAFB','#000000']}]}}&width=500&height=300" alt="Frontend Usage Chart">
 </p>
 
 <p align="center">
-  <strong>Cloud & DevOps</strong><br>
-  <span style="background-color:#232F3E;color:white;padding:8px 15px;border-radius:12px;margin:3px;">AWS 35%</span>
-  <span style="background-color:#2496ED;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Docker 35%</span>
-  <span style="background-color:#326CE5;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Kubernetes 30%</span>
+### Cloud & DevOps
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['AWS','Docker','Kubernetes'],datasets:[{data:[35,35,30],backgroundColor:['#232F3E','#2496ED','#326CE5']}]}}&width=500&height=300" alt="Cloud & DevOps Usage Chart">
 </p>
 
 <p align="center">
-  <strong>Other Tools</strong><br>
-  <span style="background-color:#7B42BC;color:white;padding:8px 15px;border-radius:12px;margin:3px;">Terraform 50%</span>
-  <span style="background-color:#E10098;color:white;padding:8px 15px;border-radius:12px;margin:3px;">GraphQL 50%</span>
+### Other Tools
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Terraform','GraphQL'],datasets:[{data:[50,50],backgroundColor:['#7B42BC','#E10098']}]}}&width=500&height=300" alt="Other Tools Usage Chart">
 </p>
 
 ---
@@ -102,20 +97,14 @@ Multidisciplinary fluency across:
 
 ---
 
-## 📈 GitHub Stats (Static Badges)
+## 📈 GitHub Stats
 
 <p align="center">
-  <span style="background-color:#FF5733;color:white;padding:10px 15px;border-radius:12px;margin:3px;">⭐ Total Stars: 123</span>
-  <span style="background-color:#33FF57;color:white;padding:10px 15px;border-radius:12px;margin:3px;">🍴 Forks: 45</span>
-  <span style="background-color:#3357FF;color:white;padding:10px 15px;border-radius:12px;margin:3px;">📦 Repos: 12</span>
-  <span style="background-color:#F333FF;color:white;padding:10px 15px;border-radius:12px;margin:3px;">👥 Contributors: 8</span>
+<img src="https://komarev.com/ghpvc/?username=fodisysystemske&color=blue&style=flat-square" alt="Profile views">
 </p>
 
 <p align="center">
-  <span style="background-color:#FFAA33;color:white;padding:10px 15px;border-radius:12px;margin:3px;">JavaScript</span>
-  <span style="background-color:#3399FF;color:white;padding:10px 15px;border-radius:12px;margin:3px;">Python</span>
-  <span style="background-color:#FF33AA;color:white;padding:10px 15px;border-radius:12px;margin:3px;">TypeScript</span>
-  <span style="background-color:#33FFAA;color:white;padding:10px 15px;border-radius:12px;margin:3px;">Go</span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodisysystemske&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -124,8 +113,4 @@ Multidisciplinary fluency across:
 
 - Email: your.email@example.com  
 - LinkedIn: [Fodisy Systems](https://www.linkedin.com/in/yourlinkedin)  
-- Twitter: [@fodisysystems](https://twitter.com/fodisysystems)  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fodisysystemske&color=blue&style=flat-square" alt="Profile views">
-</p>
+- Twitter: [@fodisysystems](https://twitter.com/fodisysystems)
