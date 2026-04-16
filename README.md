@@ -89,7 +89,7 @@ Here whether you are a begginer or experienced DevOps, There is only useful info
 
 I am the architect driving *Fodisy Systems*, focusing on solving complex system problems, building resilient architectures, and sharing practical engineering patterns.  
 
-> “Distilling complexity into structured, maintainable solutions — ensuring systems survive scale and real-world pressures.”
+> “Distilling complexity into structured, maintainable solutions — ensuring systems survive scale and real-world pressures.” connect with me at any moment you are free, I will assist you in
 
 Multidisciplinary fluency across:
 
@@ -122,9 +122,9 @@ Multidisciplinary fluency across:
 
 ## 📫 Contact / Connect
 
-- Email: your.email@example.com  
-- LinkedIn: [Fodisy Systems](https://www.linkedin.com/in/yourlinkedin)  
-- Twitter: [@fodisysystems](https://twitter.com/fodisysystems)  
+- Email: fodisysystemske@gmail.com  
+- LinkedIn: [Fodisy Systems](https://www.linkedin.com/in/fodi-sy)  
+- Twitter: [@fodisysystems](https://x.com/ablcoder41525)  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fodisysystemske&color=blue&style=flat-square" alt="Profile views">
