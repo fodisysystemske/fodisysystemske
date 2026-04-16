@@ -13,7 +13,7 @@
 
 Fodisy Systems is a *full-stack enterprise engineering powerhouse, focused on building **resilient, scalable systems* that survive real-world complexity.  
 
-We specialize in:  
+Here whether you are a begginer or experienced DevOps, There is only useful information, you will avoid costly mistakes in:  
 
 - Enterprise integrations & distributed systems  
 - Cloud infrastructure & automation frameworks  
@@ -21,7 +21,7 @@ We specialize in:
 - Designing *stable, predictable, maintainable solutions*  
 - Data pipelines, API ecosystems, deployment strategies, security hardening, performance tuning, and user-centric design  
 
-> Our goal is to *turn complexity into structured, maintainable solutions*, and share insights that elevate technology discussions globally.
+> Since Fodisy's mind and behind the curtains is one man my goal is to *turn complexity into structured, maintainable solutions*, and share insights that elevate technology discussions globally.
 
 ---
 
